@@ -1,1 +1,0 @@
-import{ap as o}from"./index-DusnYyTQ.js";const r=o.create({baseURL:"https://localhost:7119/api/",withCredentials:!1}),a=e=>{const t=localStorage.getItem("token");return t&&e.headers.set("Authorization",`Bearer ${t}`),e},s=e=>(console.log(e),Promise.reject(e));r.interceptors.request.use(a,s);export{r as a};
