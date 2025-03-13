@@ -1,0 +1,1 @@
+import{d as s}from"./index-B-d8ykXz.js";var t=(e=>(e.Member="Member",e.Employee="Employee",e.Admin="Admin",e))(t||{});const a=async e=>(await s.get(`/users/role/${e}`)).data,o=async e=>(await s.delete(`/users/${e}`)).status===204;export{t as R,o as d,a as f};
