@@ -1,1 +1,0 @@
-import{a as n,j as o,T as a}from"./index-B_QWfTc0.js";import{A as e}from"./AdminNowShowingMovies-CkCuSXP4.js";import{M as r}from"./ManagementPageLayout-BNCoekW3.js";function u(){const{t}=n();return o.jsxs(r,{children:[o.jsx(a,{variant:"h5",gutterBottom:!0,fontWeight:"bold",align:"center",children:t("footer.movies.now_showing")}),o.jsx(e,{})]})}export{u as default};
