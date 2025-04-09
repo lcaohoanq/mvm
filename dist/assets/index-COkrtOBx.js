@@ -1,1 +1,0 @@
-import{a as n,j as o,T as a}from"./index-BUPix-ev.js";import{A as e}from"./AdminNowShowingMovies-CNX1U8tF.js";import{M as r}from"./ManagementPageLayout-B6i4BBP7.js";function u(){const{t}=n();return o.jsxs(r,{children:[o.jsx(a,{variant:"h5",gutterBottom:!0,fontWeight:"bold",align:"center",children:t("footer.movies.now_showing")}),o.jsx(e,{})]})}export{u as default};
